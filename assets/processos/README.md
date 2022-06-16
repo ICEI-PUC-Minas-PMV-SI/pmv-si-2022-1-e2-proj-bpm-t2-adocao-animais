@@ -1,7 +1,7 @@
 # Lista dos processos de negócio do sistema
 
-* login.bpmn - Processo de login.
-* agendar.bpmn - Processo de agendamento.
-* entregar.bpmn - Processo de entrega.
-
-
+* gerenciar-racas.bpmn - Processo de gerenciamento de raças.
+* gerenciar-animais.bpmn - Processo de gerenciamento de animais.
+* gerenciar-doadores.bpmn - Processo de gerenciamento de doadores.
+* gerenciar-adotantes.bpmn - Processo de gerenciamento de adotantes.
+* adotar-animal.bpmn - Processo de adoção de animal.
