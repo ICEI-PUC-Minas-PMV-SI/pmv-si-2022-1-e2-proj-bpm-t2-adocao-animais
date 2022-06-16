@@ -1,17 +1,18 @@
-# Nome do projeto
+# Adoção de animais
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+Este projeto busca apresentar uma solução para simplificar o processo de adoção de animais. Por meio do uso de um sistema de informação capaz de automatizar os processos, busca-se proporcionar mais facilidade para que doadores divulguem animais disponíveis e adotantes os encontrem, contribuindo para a redução nos índices de animais abandonados no país.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Andressa Cordeiro Kahn
+* Anira Carolina Meneses de Carvalho Moura
+* Gabriel Bernardo
+* Luiz Carlos Ferreira da Silva
+* Rafael Machado Bueno
 
 ## Professor
 
-* Nome completo do professor
+* Juliana Amaral Baroni de Carvalho
 
 ## Instruções de utilização
 
