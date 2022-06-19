@@ -217,11 +217,11 @@ Detalhamos na tabela abaixo 5 indicadores de desempenho que identificam os proce
 
 | **Indicador** | **Objetivo** | **Descrição** | **Fórmula de cálculo** | **Fontes de dados** | **Perspectiva** |
 | --- | --- | --- | --- | --- | --- |
-| Percentual de adoções por período - PAP | Avaliar percentualmente nº de adoções x período | Permite identificar percentual de adoções em determinado período | nº 1° bimestre 2020nº total de adoção*100 | Tabela | 1. Relatório de Adoções por Adotante Crescimento (Campanhas de adoção para períodos de baixa vs ano/ período anterior) |
-| Perfil de origem (adotantes) - POA | Identificação da origem de perfil cadastrado | Mede % de adotantes por cidade e estado | nº adotantes Mun/ UFnº total de adotantes*100 | 2. Relatório de Origem Registro e crescimento (Potencializar áreas com poucos adotantes) |
+| Percentual de adoções por período - PAP | Avaliar percentualmente nº de adoções x período | Permite identificar percentual de adoções em determinado período | nº 1° bimestre 2020nº total de adoção*100 | Tabela  1. Relatório de Adoções por Adotante | Crescimento (Campanhas de adoção para períodos de baixa vs ano/ período anterior) |
+| Perfil de origem (adotantes) - POA | Identificação da origem de perfil cadastrado | Mede % de adotantes por cidade e estado | nº adotantes Mun/ UFnº total de adotantes*100 | 2. Relatório de Origem | Registro e crescimento (Potencializar áreas com poucos adotantes) |
 | Base de Animais por espécie /gênero - BAE - BAG | Avaliar índices de entrada e saída segundo espécie e sexo | Distribuicao de animais por espécie e sexo | nº Espécie ou sexonº total de animais*100 | 3. Quantidade de Animais por Espécie e Sexo | Processos Internos (Priorização e campanhas divulgação) |
-| Perfil de origem (doadores) - POD | Identificação de origem de animais doados | Percentual de doações por Município/ UF | nº adotantes Mun/ UFnº total de doadores*100 | Relatório de Origem (Doadores) + 3. Quantidade de Animais Registro e Aprendizado (Identificar possíveis focos de abandono ou mesmo conscientização sobre o tema) |
-| Índice de conversão de adoções - ICA | Melhorar a taxa de conversão de adoções | Identificar % de cadastros convertidos em adoção | nº total de adoçõesnº total de adotantes*100 | 4. Animais Adotados + Registro de adotantes Adotantes (melhorar fatores que possam estar impossibilitando o processo) |
+| Perfil de origem (doadores) - POD | Identificação de origem de animais doados | Percentual de doações por Município/ UF | nº adotantes Mun/ UFnº total de doadores*100 | Relatório de Origem (Doadores) + 3. Quantidade de Animais | Registro e Aprendizado (Identificar possíveis focos de abandono ou mesmo conscientização sobre o tema) |
+| Índice de conversão de adoções - ICA | Melhorar a taxa de conversão de adoções | Identificar % de cadastros convertidos em adoção | nº total de adoçõesnº total de adotantes*100 | 4. Animais Adotados + Registro de adotantes | Adotantes (melhorar fatores que possam estar impossibilitando o processo) |
 
 ## 7. Conclusão
 
