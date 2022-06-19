@@ -7,7 +7,12 @@
 <p>Pontifícia Universidade Católica de Minas Gerais - PUC Minas</p>
 </div>
 
+## Resumo
+<div align="justify">
+
 Este projeto busca apresentar uma solução para simplificar o processo de adoção de animais. Por meio do uso de um sistema de informação capaz de automatizar os processos, busca-se proporcionar mais facilidade para que doadores divulguem animais disponíveis e adotantes os encontrem, contribuindo para a redução nos índices de animais abandonados no país.
+
+</div>
 
 <div align="center">
 
