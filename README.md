@@ -16,7 +16,7 @@ Este projeto busca apresentar uma solução para simplificar o processo de adoç
 ## Integrantes
 
 - Andressa Cordeiro Kahn
-- Anira Carolina Meneses de Carvalho Moura
+- Carolina Moura
 - Gabriel Bernardo
 - Luiz Carlos Ferreira da Silva
 - Rafael Machado Bueno
